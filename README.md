@@ -6,7 +6,7 @@ Whether you're just starting your coding journey or looking to reinforce your un
 ## Getting Started
 
 1. **Access the Notebook**: Click on the following link to open the interactive
-    Colab Notebook: [Python Basics Learning Notebook](<[insert your Colab link here>](https://colab.research.google.com/drive/1DVvk7a21nIycTVAnQi_5IwHHcKkKYEnk?usp=sharing)).
+    Colab Notebook: [Python Basics Learning Notebook](<[link>](https://colab.research.google.com/drive/1DVvk7a21nIycTVAnQi_5IwHHcKkKYEnk?usp=sharing)).
 
 3. **How to Use the Notebook**: The notebook is structured to provide a step-by-step learning experience.
     Each section covers a specific concept, accompanied by code snippets and explanations. Feel free to play around with the code and see how it works!
